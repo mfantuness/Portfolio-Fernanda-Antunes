@@ -42,7 +42,7 @@ export function Hero() {
           <div className="absolute -bottom-8 -left-8 h-32 w-40 rotate-12 rounded-[62%_38%_45%_55%/43%_58%_42%_57%] bg-rose-800/30 blur-sm" />
           <div className="relative overflow-hidden rounded-[1.75rem] border border-rose-200 bg-slate-50 p-3 shadow-2xl shadow-rose-950/10">
             <Image
-              src="/placeholders/Foto_perfil3.JPEG"
+              src="/placeholders/Foto_perfil3.jpg"
               alt="Foto de perfil"
               width={560}
               height={680}
