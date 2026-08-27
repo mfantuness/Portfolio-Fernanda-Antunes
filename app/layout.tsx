@@ -5,11 +5,11 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://example.com"),
   title: "Fernanda Antunes | Portfolio",
   description:
-    "Portfolio profissional placeholder para desenvolvedora de tecnologia.",
+    "Portfolio - Maria Fernanda Antunes de Oliveira.",
   openGraph: {
     title: "Fernanda Antunes | Portfolio",
     description:
-      "Portfolio profissional placeholder para desenvolvedora de tecnologia.",
+      "Portfolio - Maria Fernanda Antunes de Oliveira.",
     images: [
       {
         url: "/placeholders/og-image-placeholder.svg",
