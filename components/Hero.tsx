@@ -43,7 +43,7 @@ export function Hero() {
           <div className="relative overflow-hidden rounded-[1.75rem] border border-rose-200 bg-slate-50 p-3 shadow-2xl shadow-rose-950/10">
             <Image
               src="/placeholders/Foto_perfil3.JPEG"
-              alt="Foto DE PERFIL"
+              alt="Foto de perfil"
               width={560}
               height={680}
               priority
